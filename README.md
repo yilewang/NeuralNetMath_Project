@@ -6,6 +6,6 @@ The dataset is from Kaggle: [link](https://www.kaggle.com/datasets/krpurba/fakea
 
 Role of this project:
 
-Alogrithm Engineer: Akshay Sonawane /n
-Software Engineer: Yile Wang /n
-Test Engineer: Luke Moraglia /n
+Alogrithm Engineer: Akshay Sonawane \n
+Software Engineer: Yile Wang \n
+Test Engineer: Luke Moraglia \n
